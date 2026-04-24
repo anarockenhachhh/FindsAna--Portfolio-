@@ -9,7 +9,7 @@
 
 ### *Curadoria inteligente de ofertas em tempo real*
 
-[🔗 Ver Protótipo no Figma](https://www.figma.com/make/Us7vfXZYOlT8EHE1hqey5k/Achadinhos-da-Ana-website?t=lZ1m0c5uXoJ8USGs-0) · [🐛 Reportar Bug](https://github.com/anarockenhachhh/issues)
+[🔗 Ver Protótipo no Figma](https://www.figma.com/make/Us7vfXZYOlT8EHE1hqey5k/Achadinhos-da-Ana-website?t=lZ1m0c5uXoJ8USGs-0)
 
 </div>
 
