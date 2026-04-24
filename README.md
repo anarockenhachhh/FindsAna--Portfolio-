@@ -69,45 +69,6 @@ O projeto seguiu um fluxo rigoroso de desenvolvimento:
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-```
-achadinhos-da-ana/
-├── 📁 bot/
-│   ├── scraper.py         # Lógica de scraping por loja
-│   └── scheduler.py       # Agendamento das execuções
-├── 📁 frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── app.js             # Integração com Supabase
-├── 📁 assets/
-└── README.md
-```
-
----
-
-## 🏁 Como Executar Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/anarockenhachhh/achadinhos-da-ana.git
-cd achadinhos-da-ana
-
-# Instale as dependências do bot
-pip install -r requirements.txt
-
-# Configure as variáveis de ambiente
-cp .env.example .env
-# Adicione suas chaves do Supabase no .env
-
-# Execute o bot
-python bot/scraper.py
-```
-
-> ⚠️ É necessário ter o **ChromeDriver** instalado e compatível com a versão do seu Chrome para rodar o Selenium.
-
----
-
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
