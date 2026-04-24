@@ -65,6 +65,8 @@ O projeto seguiu um fluxo rigoroso de desenvolvimento:
 - **Prototipagem:** Design de alta fidelidade criado no Figma com foco em UX, estética premium e taxa de conversão.
 - **Desenvolvimento:** Implementação fiel ao protótipo com componentização e boas práticas.
 
+![Kanban do Projeto](./assets/kanban.png)
+
 📐 [Acessar protótipo no Figma](https://www.figma.com/make/Us7vfXZYOlT8EHE1hqey5k/Achadinhos-da-Ana-website?t=lZ1m0c5uXoJ8USGs-0)
 
 ---
