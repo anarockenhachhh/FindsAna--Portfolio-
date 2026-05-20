@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-# 🛍️ Achadinhos da Ana
+# 🛍️ Zuppy - Cupons & Ofertas
 
 ### *Curadoria inteligente de ofertas em tempo real*
 
