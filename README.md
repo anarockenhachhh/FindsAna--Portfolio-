@@ -67,7 +67,7 @@ O projeto seguiu um fluxo rigoroso de desenvolvimento:
 
 ![Kanban do Projeto](./assets/kanban.png)
 
-📐 [Acessar protótipo no Figma](https://www.figma.com/make/Us7vfXZYOlT8EHE1hqey5k/Achadinhos-da-Ana-website?t=lZ1m0c5uXoJ8USGs-0)
+📐 [Acessar protótipo no Figma](https://www.figma.com/make/Us7vfXZYOlT8EHE1hqey5k/Achadinhos-da-Ana-website?code-node-id=0-9&p=f&t=YqrlKDhEgSlS9m9h-0&fullscreen=1)
 
 ---
 
